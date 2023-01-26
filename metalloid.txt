@@ -1,0 +1,7 @@
+Boron B 5
+Silicon Si 14
+Germanium Ge 32
+Arsenic As 33
+Antimony Sb 51
+Tellurium Te 52
+Polonium Po 84

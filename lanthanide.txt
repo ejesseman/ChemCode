@@ -1,0 +1,15 @@
+Lanthanum La 57
+Cerium Ce 58 
+Praseodymium Pr 59
+Neodymium Nd 60
+Promethium Pm 61
+Samarium Sm 62
+Europium Eu 63
+Gadolinium Gd 64
+Terbium Tb 65
+Dysprosium Dy 66
+Holmium Ho 67
+Erbium Er 68
+Thulium Tm 69
+Ytterbium Yb 70
+Lutetium Lu 71

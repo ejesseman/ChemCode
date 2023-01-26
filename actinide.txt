@@ -1,0 +1,15 @@
+Actinium Ac 89
+Thorium Th 90
+Protactinium Pa 91
+Uranium U 92
+Neptunium Np 93
+Plutonium Pu 94
+Americium Am 95
+Curium Cm 96
+Berkelium Bk 97
+Californium Cf 98
+Einsteinium Es 99
+Fermium Fm 100
+Mendelevium Md 101
+Nobelium No 102
+Lawrencium Lr 103

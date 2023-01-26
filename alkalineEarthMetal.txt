@@ -1,0 +1,6 @@
+Beryllium Be 4
+Magnesium Mg 12
+Calcium Ca 20
+Strontium Sr 38
+Barium Ba 56
+Radium Ra 88

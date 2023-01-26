@@ -1,0 +1,7 @@
+Helium He 2
+Neon Ne 10
+Argon Ar 18
+Krypton Kr 36
+Xenon Xe 54
+Radon Rn 86
+Oganesson Og 118

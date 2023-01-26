@@ -1,0 +1,6 @@
+Lithium Li 3
+Sodium Na 11
+Potassium K 19
+Rubidium Rb 37
+Cesium Cs 55
+Francium Fr 87

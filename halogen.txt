@@ -1,0 +1,6 @@
+Fluorine F 9
+Chlorine Cl 17
+Bromine Br 35
+Iodine I 53
+Astatine At 85
+Tennessine Ts 117
